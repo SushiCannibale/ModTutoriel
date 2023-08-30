@@ -1,4 +1,4 @@
-package fr.sushi.enchanter;
+package fr.sushi.tutorialmod;
 
 import net.minecraftforge.fml.common.Mod;
 
@@ -7,8 +7,7 @@ public class TutorialMod
 {
     public static final String MODID = "tutorialmod";
 
-    public TutorialMod()
-    {
+    public TutorialMod() {
 
     }
 }
